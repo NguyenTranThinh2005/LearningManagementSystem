@@ -1,0 +1,756 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\FPTU\\1_PRN232\\SE193112Lab1\\PRN232.LAB1.SE193112\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2EB878A-8FD1-4977-BF04-70CE6EE06ADF}|PRN232.LAB1.SE193112\\PRN232.LMS.API.csproj|d:\\fptu\\1_prn232\\se193112lab1\\prn232.lab1.se193112\\prn232.lab1.se193112\\controllers\\enrollmentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2EB878A-8FD1-4977-BF04-70CE6EE06ADF}|PRN232.LAB1.SE193112\\PRN232.LMS.API.csproj|solutionrelative:prn232.lab1.se193112\\controllers\\enrollmentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2EB878A-8FD1-4977-BF04-70CE6EE06ADF}|PRN232.LAB1.SE193112\\PRN232.LMS.API.csproj|d:\\fptu\\1_prn232\\se193112lab1\\prn232.lab1.se193112\\prn232.lab1.se193112\\controllers\\coursescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2EB878A-8FD1-4977-BF04-70CE6EE06ADF}|PRN232.LAB1.SE193112\\PRN232.LMS.API.csproj|solutionrelative:prn232.lab1.se193112\\controllers\\coursescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2EB878A-8FD1-4977-BF04-70CE6EE06ADF}|PRN232.LAB1.SE193112\\PRN232.LMS.API.csproj|d:\\fptu\\1_prn232\\se193112lab1\\prn232.lab1.se193112\\prn232.lab1.se193112\\docker-compose.yml||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2EB878A-8FD1-4977-BF04-70CE6EE06ADF}|PRN232.LAB1.SE193112\\PRN232.LMS.API.csproj|solutionrelative:prn232.lab1.se193112\\docker-compose.yml||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2EB878A-8FD1-4977-BF04-70CE6EE06ADF}|PRN232.LAB1.SE193112\\PRN232.LMS.API.csproj|d:\\fptu\\1_prn232\\se193112lab1\\prn232.lab1.se193112\\prn232.lab1.se193112\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2EB878A-8FD1-4977-BF04-70CE6EE06ADF}|PRN232.LAB1.SE193112\\PRN232.LMS.API.csproj|solutionrelative:prn232.lab1.se193112\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2EB878A-8FD1-4977-BF04-70CE6EE06ADF}|PRN232.LAB1.SE193112\\PRN232.LMS.API.csproj|d:\\fptu\\1_prn232\\se193112lab1\\prn232.lab1.se193112\\prn232.lab1.se193112\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A2EB878A-8FD1-4977-BF04-70CE6EE06ADF}|PRN232.LAB1.SE193112\\PRN232.LMS.API.csproj|solutionrelative:prn232.lab1.se193112\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2EB878A-8FD1-4977-BF04-70CE6EE06ADF}|PRN232.LAB1.SE193112\\PRN232.LMS.API.csproj|d:\\fptu\\1_prn232\\se193112lab1\\prn232.lab1.se193112\\prn232.lab1.se193112\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A2EB878A-8FD1-4977-BF04-70CE6EE06ADF}|PRN232.LAB1.SE193112\\PRN232.LMS.API.csproj|solutionrelative:prn232.lab1.se193112\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2EB878A-8FD1-4977-BF04-70CE6EE06ADF}|PRN232.LAB1.SE193112\\PRN232.LMS.API.csproj|d:\\fptu\\1_prn232\\se193112lab1\\prn232.lab1.se193112\\prn232.lab1.se193112\\prn232.lab1.se193112.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{A2EB878A-8FD1-4977-BF04-70CE6EE06ADF}|PRN232.LAB1.SE193112\\PRN232.LMS.API.csproj|solutionrelative:prn232.lab1.se193112\\prn232.lab1.se193112.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6B82E7E-77AD-4460-9ACD-FD6FE4172896}|PRN232.LMS.Repositories\\PRN232.LMS.Repositories.csproj|d:\\fptu\\1_prn232\\se193112lab1\\prn232.lab1.se193112\\prn232.lms.repositories\\entities\\prn232lmscontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6B82E7E-77AD-4460-9ACD-FD6FE4172896}|PRN232.LMS.Repositories\\PRN232.LMS.Repositories.csproj|solutionrelative:prn232.lms.repositories\\entities\\prn232lmscontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2EB878A-8FD1-4977-BF04-70CE6EE06ADF}|PRN232.LAB1.SE193112\\PRN232.LMS.API.csproj|d:\\fptu\\1_prn232\\se193112lab1\\prn232.lab1.se193112\\prn232.lab1.se193112\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2EB878A-8FD1-4977-BF04-70CE6EE06ADF}|PRN232.LAB1.SE193112\\PRN232.LMS.API.csproj|solutionrelative:prn232.lab1.se193112\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6B82E7E-77AD-4460-9ACD-FD6FE4172896}|PRN232.LMS.Repositories\\PRN232.LMS.Repositories.csproj|d:\\fptu\\1_prn232\\se193112lab1\\prn232.lab1.se193112\\prn232.lms.repositories\\prn232.lms.repositories.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{D6B82E7E-77AD-4460-9ACD-FD6FE4172896}|PRN232.LMS.Repositories\\PRN232.LMS.Repositories.csproj|solutionrelative:prn232.lms.repositories\\prn232.lms.repositories.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2EB878A-8FD1-4977-BF04-70CE6EE06ADF}|PRN232.LAB1.SE193112\\PRN232.LMS.API.csproj|d:\\fptu\\1_prn232\\se193112lab1\\prn232.lab1.se193112\\prn232.lab1.se193112\\prn232.lms.api.csproj.lscache||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2EB878A-8FD1-4977-BF04-70CE6EE06ADF}|PRN232.LAB1.SE193112\\PRN232.LMS.API.csproj|solutionrelative:prn232.lab1.se193112\\prn232.lms.api.csproj.lscache||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2EB878A-8FD1-4977-BF04-70CE6EE06ADF}|PRN232.LAB1.SE193112\\PRN232.LMS.API.csproj|d:\\fptu\\1_prn232\\se193112lab1\\prn232.lab1.se193112\\prn232.lab1.se193112\\prn232.lms.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{A2EB878A-8FD1-4977-BF04-70CE6EE06ADF}|PRN232.LAB1.SE193112\\PRN232.LMS.API.csproj|solutionrelative:prn232.lab1.se193112\\prn232.lms.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2EB878A-8FD1-4977-BF04-70CE6EE06ADF}|PRN232.LAB1.SE193112\\PRN232.LMS.API.csproj|d:\\fptu\\1_prn232\\se193112lab1\\prn232.lab1.se193112\\prn232.lab1.se193112\\models\\apiresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2EB878A-8FD1-4977-BF04-70CE6EE06ADF}|PRN232.LAB1.SE193112\\PRN232.LMS.API.csproj|solutionrelative:prn232.lab1.se193112\\models\\apiresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\dotnet\\sdk\\9.0.311\\Sdks\\Microsoft.NET.Sdk.Razor\\targets\\Microsoft.NET.Sdk.Razor.MvcApplicationPartsDiscovery.targets||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FCA97500-A1D8-4562-BCD2-57058E7AB716}|PRN232.LMS.Services\\PRN232.LMS.Services.csproj|d:\\fptu\\1_prn232\\se193112lab1\\prn232.lab1.se193112\\prn232.lms.services\\services\\enrollmentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FCA97500-A1D8-4562-BCD2-57058E7AB716}|PRN232.LMS.Services\\PRN232.LMS.Services.csproj|solutionrelative:prn232.lms.services\\services\\enrollmentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2EB878A-8FD1-4977-BF04-70CE6EE06ADF}|PRN232.LAB1.SE193112\\PRN232.LMS.API.csproj|d:\\fptu\\1_prn232\\se193112lab1\\prn232.lab1.se193112\\prn232.lab1.se193112\\controllers\\studentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2EB878A-8FD1-4977-BF04-70CE6EE06ADF}|PRN232.LAB1.SE193112\\PRN232.LMS.API.csproj|solutionrelative:prn232.lab1.se193112\\controllers\\studentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2EB878A-8FD1-4977-BF04-70CE6EE06ADF}|PRN232.LAB1.SE193112\\PRN232.LMS.API.csproj|d:\\fptu\\1_prn232\\se193112lab1\\prn232.lab1.se193112\\prn232.lab1.se193112\\models\\responses\\courseresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2EB878A-8FD1-4977-BF04-70CE6EE06ADF}|PRN232.LAB1.SE193112\\PRN232.LMS.API.csproj|solutionrelative:prn232.lab1.se193112\\models\\responses\\courseresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2EB878A-8FD1-4977-BF04-70CE6EE06ADF}|PRN232.LAB1.SE193112\\PRN232.LMS.API.csproj|d:\\fptu\\1_prn232\\se193112lab1\\prn232.lab1.se193112\\prn232.lab1.se193112\\models\\responses\\enrollmentresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2EB878A-8FD1-4977-BF04-70CE6EE06ADF}|PRN232.LAB1.SE193112\\PRN232.LMS.API.csproj|solutionrelative:prn232.lab1.se193112\\models\\responses\\enrollmentresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2EB878A-8FD1-4977-BF04-70CE6EE06ADF}|PRN232.LAB1.SE193112\\PRN232.LMS.API.csproj|d:\\fptu\\1_prn232\\se193112lab1\\prn232.lab1.se193112\\prn232.lab1.se193112\\models\\responses\\semesterresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2EB878A-8FD1-4977-BF04-70CE6EE06ADF}|PRN232.LAB1.SE193112\\PRN232.LMS.API.csproj|solutionrelative:prn232.lab1.se193112\\models\\responses\\semesterresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2EB878A-8FD1-4977-BF04-70CE6EE06ADF}|PRN232.LAB1.SE193112\\PRN232.LMS.API.csproj|d:\\fptu\\1_prn232\\se193112lab1\\prn232.lab1.se193112\\prn232.lab1.se193112\\models\\responses\\studentresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2EB878A-8FD1-4977-BF04-70CE6EE06ADF}|PRN232.LAB1.SE193112\\PRN232.LMS.API.csproj|solutionrelative:prn232.lab1.se193112\\models\\responses\\studentresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2EB878A-8FD1-4977-BF04-70CE6EE06ADF}|PRN232.LAB1.SE193112\\PRN232.LMS.API.csproj|d:\\fptu\\1_prn232\\se193112lab1\\prn232.lab1.se193112\\prn232.lab1.se193112\\models\\responses\\subjectresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2EB878A-8FD1-4977-BF04-70CE6EE06ADF}|PRN232.LAB1.SE193112\\PRN232.LMS.API.csproj|solutionrelative:prn232.lab1.se193112\\models\\responses\\subjectresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6B82E7E-77AD-4460-9ACD-FD6FE4172896}|PRN232.LMS.Repositories\\PRN232.LMS.Repositories.csproj|d:\\fptu\\1_prn232\\se193112lab1\\prn232.lab1.se193112\\prn232.lms.repositories\\repositories\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6B82E7E-77AD-4460-9ACD-FD6FE4172896}|PRN232.LMS.Repositories\\PRN232.LMS.Repositories.csproj|solutionrelative:prn232.lms.repositories\\repositories\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FCA97500-A1D8-4562-BCD2-57058E7AB716}|PRN232.LMS.Services\\PRN232.LMS.Services.csproj|d:\\fptu\\1_prn232\\se193112lab1\\prn232.lab1.se193112\\prn232.lms.services\\prn232.lms.services.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{FCA97500-A1D8-4562-BCD2-57058E7AB716}|PRN232.LMS.Services\\PRN232.LMS.Services.csproj|solutionrelative:prn232.lms.services\\prn232.lms.services.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6B82E7E-77AD-4460-9ACD-FD6FE4172896}|PRN232.LMS.Repositories\\PRN232.LMS.Repositories.csproj|d:\\fptu\\1_prn232\\se193112lab1\\prn232.lab1.se193112\\prn232.lms.repositories\\prn232.lms.repositories.csproj.lscache||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{D6B82E7E-77AD-4460-9ACD-FD6FE4172896}|PRN232.LMS.Repositories\\PRN232.LMS.Repositories.csproj|solutionrelative:prn232.lms.repositories\\prn232.lms.repositories.csproj.lscache||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6B82E7E-77AD-4460-9ACD-FD6FE4172896}|PRN232.LMS.Repositories\\PRN232.LMS.Repositories.csproj|d:\\fptu\\1_prn232\\se193112lab1\\prn232.lab1.se193112\\prn232.lms.repositories\\repositories\\studentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6B82E7E-77AD-4460-9ACD-FD6FE4172896}|PRN232.LMS.Repositories\\PRN232.LMS.Repositories.csproj|solutionrelative:prn232.lms.repositories\\repositories\\studentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6B82E7E-77AD-4460-9ACD-FD6FE4172896}|PRN232.LMS.Repositories\\PRN232.LMS.Repositories.csproj|d:\\fptu\\1_prn232\\se193112lab1\\prn232.lab1.se193112\\prn232.lms.repositories\\repositories\\semesterrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6B82E7E-77AD-4460-9ACD-FD6FE4172896}|PRN232.LMS.Repositories\\PRN232.LMS.Repositories.csproj|solutionrelative:prn232.lms.repositories\\repositories\\semesterrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6B82E7E-77AD-4460-9ACD-FD6FE4172896}|PRN232.LMS.Repositories\\PRN232.LMS.Repositories.csproj|d:\\fptu\\1_prn232\\se193112lab1\\prn232.lab1.se193112\\prn232.lms.repositories\\repositories\\subjectrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6B82E7E-77AD-4460-9ACD-FD6FE4172896}|PRN232.LMS.Repositories\\PRN232.LMS.Repositories.csproj|solutionrelative:prn232.lms.repositories\\repositories\\subjectrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6B82E7E-77AD-4460-9ACD-FD6FE4172896}|PRN232.LMS.Repositories\\PRN232.LMS.Repositories.csproj|d:\\fptu\\1_prn232\\se193112lab1\\prn232.lab1.se193112\\prn232.lms.repositories\\repositories\\interfaces\\icourserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6B82E7E-77AD-4460-9ACD-FD6FE4172896}|PRN232.LMS.Repositories\\PRN232.LMS.Repositories.csproj|solutionrelative:prn232.lms.repositories\\repositories\\interfaces\\icourserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6B82E7E-77AD-4460-9ACD-FD6FE4172896}|PRN232.LMS.Repositories\\PRN232.LMS.Repositories.csproj|d:\\fptu\\1_prn232\\se193112lab1\\prn232.lab1.se193112\\prn232.lms.repositories\\repositories\\interfaces\\ienrollmentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6B82E7E-77AD-4460-9ACD-FD6FE4172896}|PRN232.LMS.Repositories\\PRN232.LMS.Repositories.csproj|solutionrelative:prn232.lms.repositories\\repositories\\interfaces\\ienrollmentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6B82E7E-77AD-4460-9ACD-FD6FE4172896}|PRN232.LMS.Repositories\\PRN232.LMS.Repositories.csproj|d:\\fptu\\1_prn232\\se193112lab1\\prn232.lab1.se193112\\prn232.lms.repositories\\repositories\\interfaces\\igenericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6B82E7E-77AD-4460-9ACD-FD6FE4172896}|PRN232.LMS.Repositories\\PRN232.LMS.Repositories.csproj|solutionrelative:prn232.lms.repositories\\repositories\\interfaces\\igenericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FCA97500-A1D8-4562-BCD2-57058E7AB716}|PRN232.LMS.Services\\PRN232.LMS.Services.csproj|d:\\fptu\\1_prn232\\se193112lab1\\prn232.lab1.se193112\\prn232.lms.services\\models\\subjectbusinessmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FCA97500-A1D8-4562-BCD2-57058E7AB716}|PRN232.LMS.Services\\PRN232.LMS.Services.csproj|solutionrelative:prn232.lms.services\\models\\subjectbusinessmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FCA97500-A1D8-4562-BCD2-57058E7AB716}|PRN232.LMS.Services\\PRN232.LMS.Services.csproj|d:\\fptu\\1_prn232\\se193112lab1\\prn232.lab1.se193112\\prn232.lms.services\\services\\subjectservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FCA97500-A1D8-4562-BCD2-57058E7AB716}|PRN232.LMS.Services\\PRN232.LMS.Services.csproj|solutionrelative:prn232.lms.services\\services\\subjectservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FCA97500-A1D8-4562-BCD2-57058E7AB716}|PRN232.LMS.Services\\PRN232.LMS.Services.csproj|d:\\fptu\\1_prn232\\se193112lab1\\prn232.lab1.se193112\\prn232.lms.services\\services\\studentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FCA97500-A1D8-4562-BCD2-57058E7AB716}|PRN232.LMS.Services\\PRN232.LMS.Services.csproj|solutionrelative:prn232.lms.services\\services\\studentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FCA97500-A1D8-4562-BCD2-57058E7AB716}|PRN232.LMS.Services\\PRN232.LMS.Services.csproj|d:\\fptu\\1_prn232\\se193112lab1\\prn232.lab1.se193112\\prn232.lms.services\\services\\semesterservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FCA97500-A1D8-4562-BCD2-57058E7AB716}|PRN232.LMS.Services\\PRN232.LMS.Services.csproj|solutionrelative:prn232.lms.services\\services\\semesterservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FCA97500-A1D8-4562-BCD2-57058E7AB716}|PRN232.LMS.Services\\PRN232.LMS.Services.csproj|d:\\fptu\\1_prn232\\se193112lab1\\prn232.lab1.se193112\\prn232.lms.services\\services\\courseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FCA97500-A1D8-4562-BCD2-57058E7AB716}|PRN232.LMS.Services\\PRN232.LMS.Services.csproj|solutionrelative:prn232.lms.services\\services\\courseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FCA97500-A1D8-4562-BCD2-57058E7AB716}|PRN232.LMS.Services\\PRN232.LMS.Services.csproj|d:\\fptu\\1_prn232\\se193112lab1\\prn232.lab1.se193112\\prn232.lms.services\\models\\coursebusinessmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FCA97500-A1D8-4562-BCD2-57058E7AB716}|PRN232.LMS.Services\\PRN232.LMS.Services.csproj|solutionrelative:prn232.lms.services\\models\\coursebusinessmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FCA97500-A1D8-4562-BCD2-57058E7AB716}|PRN232.LMS.Services\\PRN232.LMS.Services.csproj|d:\\fptu\\1_prn232\\se193112lab1\\prn232.lab1.se193112\\prn232.lms.services\\models\\enrollmentbusinessmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FCA97500-A1D8-4562-BCD2-57058E7AB716}|PRN232.LMS.Services\\PRN232.LMS.Services.csproj|solutionrelative:prn232.lms.services\\models\\enrollmentbusinessmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6B82E7E-77AD-4460-9ACD-FD6FE4172896}|PRN232.LMS.Repositories\\PRN232.LMS.Repositories.csproj|d:\\fptu\\1_prn232\\se193112lab1\\prn232.lab1.se193112\\prn232.lms.repositories\\entities\\enrollment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6B82E7E-77AD-4460-9ACD-FD6FE4172896}|PRN232.LMS.Repositories\\PRN232.LMS.Repositories.csproj|solutionrelative:prn232.lms.repositories\\entities\\enrollment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FCA97500-A1D8-4562-BCD2-57058E7AB716}|PRN232.LMS.Services\\PRN232.LMS.Services.csproj|d:\\fptu\\1_prn232\\se193112lab1\\prn232.lab1.se193112\\prn232.lms.services\\models\\semesterbusinessmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FCA97500-A1D8-4562-BCD2-57058E7AB716}|PRN232.LMS.Services\\PRN232.LMS.Services.csproj|solutionrelative:prn232.lms.services\\models\\semesterbusinessmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FCA97500-A1D8-4562-BCD2-57058E7AB716}|PRN232.LMS.Services\\PRN232.LMS.Services.csproj|d:\\fptu\\1_prn232\\se193112lab1\\prn232.lab1.se193112\\prn232.lms.services\\models\\studentbusinessmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FCA97500-A1D8-4562-BCD2-57058E7AB716}|PRN232.LMS.Services\\PRN232.LMS.Services.csproj|solutionrelative:prn232.lms.services\\models\\studentbusinessmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6B82E7E-77AD-4460-9ACD-FD6FE4172896}|PRN232.LMS.Repositories\\PRN232.LMS.Repositories.csproj|d:\\fptu\\1_prn232\\se193112lab1\\prn232.lab1.se193112\\prn232.lms.repositories\\repositories\\courserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6B82E7E-77AD-4460-9ACD-FD6FE4172896}|PRN232.LMS.Repositories\\PRN232.LMS.Repositories.csproj|solutionrelative:prn232.lms.repositories\\repositories\\courserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6B82E7E-77AD-4460-9ACD-FD6FE4172896}|PRN232.LMS.Repositories\\PRN232.LMS.Repositories.csproj|d:\\fptu\\1_prn232\\se193112lab1\\prn232.lab1.se193112\\prn232.lms.repositories\\repositories\\enrollmentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6B82E7E-77AD-4460-9ACD-FD6FE4172896}|PRN232.LMS.Repositories\\PRN232.LMS.Repositories.csproj|solutionrelative:prn232.lms.repositories\\repositories\\enrollmentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6B82E7E-77AD-4460-9ACD-FD6FE4172896}|PRN232.LMS.Repositories\\PRN232.LMS.Repositories.csproj|d:\\fptu\\1_prn232\\se193112lab1\\prn232.lab1.se193112\\prn232.lms.repositories\\repositories\\interfaces\\isubjectrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6B82E7E-77AD-4460-9ACD-FD6FE4172896}|PRN232.LMS.Repositories\\PRN232.LMS.Repositories.csproj|solutionrelative:prn232.lms.repositories\\repositories\\interfaces\\isubjectrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6B82E7E-77AD-4460-9ACD-FD6FE4172896}|PRN232.LMS.Repositories\\PRN232.LMS.Repositories.csproj|d:\\fptu\\1_prn232\\se193112lab1\\prn232.lab1.se193112\\prn232.lms.repositories\\repositories\\interfaces\\istudentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6B82E7E-77AD-4460-9ACD-FD6FE4172896}|PRN232.LMS.Repositories\\PRN232.LMS.Repositories.csproj|solutionrelative:prn232.lms.repositories\\repositories\\interfaces\\istudentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6B82E7E-77AD-4460-9ACD-FD6FE4172896}|PRN232.LMS.Repositories\\PRN232.LMS.Repositories.csproj|d:\\fptu\\1_prn232\\se193112lab1\\prn232.lab1.se193112\\prn232.lms.repositories\\repositories\\interfaces\\isemesterrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6B82E7E-77AD-4460-9ACD-FD6FE4172896}|PRN232.LMS.Repositories\\PRN232.LMS.Repositories.csproj|solutionrelative:prn232.lms.repositories\\repositories\\interfaces\\isemesterrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6B82E7E-77AD-4460-9ACD-FD6FE4172896}|PRN232.LMS.Repositories\\PRN232.LMS.Repositories.csproj|d:\\fptu\\1_prn232\\se193112lab1\\prn232.lab1.se193112\\prn232.lms.repositories\\entities\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6B82E7E-77AD-4460-9ACD-FD6FE4172896}|PRN232.LMS.Repositories\\PRN232.LMS.Repositories.csproj|solutionrelative:prn232.lms.repositories\\entities\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EnrollmentsController.cs",
+              "DocumentMoniker": "D:\\FPTU\\1_PRN232\\SE193112Lab1\\PRN232.LAB1.SE193112\\PRN232.LAB1.SE193112\\Controllers\\EnrollmentsController.cs",
+              "RelativeDocumentMoniker": "PRN232.LAB1.SE193112\\Controllers\\EnrollmentsController.cs",
+              "ToolTip": "D:\\FPTU\\1_PRN232\\SE193112Lab1\\PRN232.LAB1.SE193112\\PRN232.LAB1.SE193112\\Controllers\\EnrollmentsController.cs",
+              "RelativeToolTip": "PRN232.LAB1.SE193112\\Controllers\\EnrollmentsController.cs",
+              "ViewState": "AgIAAI4AAAAAAAAAAAAkwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-24T15:58:57.432Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CoursesController.cs",
+              "DocumentMoniker": "D:\\FPTU\\1_PRN232\\SE193112Lab1\\PRN232.LAB1.SE193112\\PRN232.LAB1.SE193112\\Controllers\\CoursesController.cs",
+              "RelativeDocumentMoniker": "PRN232.LAB1.SE193112\\Controllers\\CoursesController.cs",
+              "ToolTip": "D:\\FPTU\\1_PRN232\\SE193112Lab1\\PRN232.LAB1.SE193112\\PRN232.LAB1.SE193112\\Controllers\\CoursesController.cs",
+              "RelativeToolTip": "PRN232.LAB1.SE193112\\Controllers\\CoursesController.cs",
+              "ViewState": "AgIAAOUAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-24T15:47:33.053Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "D:\\FPTU\\1_PRN232\\SE193112Lab1\\PRN232.LAB1.SE193112\\PRN232.LAB1.SE193112\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "PRN232.LAB1.SE193112\\appsettings.Development.json",
+              "ToolTip": "D:\\FPTU\\1_PRN232\\SE193112Lab1\\PRN232.LAB1.SE193112\\PRN232.LAB1.SE193112\\appsettings.Development.json",
+              "RelativeToolTip": "PRN232.LAB1.SE193112\\appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-05-20T11:51:57.039Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\FPTU\\1_PRN232\\SE193112Lab1\\PRN232.LAB1.SE193112\\PRN232.LAB1.SE193112\\Program.cs",
+              "RelativeDocumentMoniker": "PRN232.LAB1.SE193112\\Program.cs",
+              "ToolTip": "D:\\FPTU\\1_PRN232\\SE193112Lab1\\PRN232.LAB1.SE193112\\PRN232.LAB1.SE193112\\Program.cs",
+              "RelativeToolTip": "PRN232.LAB1.SE193112\\Program.cs",
+              "ViewState": "AgIAACYAAAAAAAAAAAAUwDsAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-15T05:30:01.458Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "docker-compose.yml",
+              "DocumentMoniker": "D:\\FPTU\\1_PRN232\\SE193112Lab1\\PRN232.LAB1.SE193112\\PRN232.LAB1.SE193112\\docker-compose.yml",
+              "RelativeDocumentMoniker": "PRN232.LAB1.SE193112\\docker-compose.yml",
+              "ToolTip": "D:\\FPTU\\1_PRN232\\SE193112Lab1\\PRN232.LAB1.SE193112\\PRN232.LAB1.SE193112\\docker-compose.yml",
+              "RelativeToolTip": "PRN232.LAB1.SE193112\\docker-compose.yml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003775|",
+              "WhenOpened": "2026-05-16T00:33:20.505Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "PRN232.LMS.API.csproj",
+              "DocumentMoniker": "D:\\FPTU\\1_PRN232\\SE193112Lab1\\PRN232.LAB1.SE193112\\PRN232.LAB1.SE193112\\PRN232.LMS.API.csproj",
+              "RelativeDocumentMoniker": "PRN232.LAB1.SE193112\\PRN232.LMS.API.csproj",
+              "ToolTip": "D:\\FPTU\\1_PRN232\\SE193112Lab1\\PRN232.LAB1.SE193112\\PRN232.LAB1.SE193112\\PRN232.LMS.API.csproj",
+              "RelativeToolTip": "PRN232.LAB1.SE193112\\PRN232.LMS.API.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-05-15T05:09:43.869Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "PRN232.LAB1.SE193112.http",
+              "DocumentMoniker": "D:\\FPTU\\1_PRN232\\SE193112Lab1\\PRN232.LAB1.SE193112\\PRN232.LAB1.SE193112\\PRN232.LAB1.SE193112.http",
+              "RelativeDocumentMoniker": "PRN232.LAB1.SE193112\\PRN232.LAB1.SE193112.http",
+              "ToolTip": "D:\\FPTU\\1_PRN232\\SE193112Lab1\\PRN232.LAB1.SE193112\\PRN232.LAB1.SE193112\\PRN232.LAB1.SE193112.http",
+              "RelativeToolTip": "PRN232.LAB1.SE193112\\PRN232.LAB1.SE193112.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2026-05-18T03:19:41.086Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Dockerfile",
+              "DocumentMoniker": "D:\\FPTU\\1_PRN232\\SE193112Lab1\\PRN232.LAB1.SE193112\\PRN232.LAB1.SE193112\\Dockerfile",
+              "RelativeDocumentMoniker": "PRN232.LAB1.SE193112\\Dockerfile",
+              "ToolTip": "D:\\FPTU\\1_PRN232\\SE193112Lab1\\PRN232.LAB1.SE193112\\PRN232.LAB1.SE193112\\Dockerfile",
+              "RelativeToolTip": "PRN232.LAB1.SE193112\\Dockerfile",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-05-18T03:15:58.886Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\FPTU\\1_PRN232\\SE193112Lab1\\PRN232.LAB1.SE193112\\PRN232.LAB1.SE193112\\appsettings.json",
+              "RelativeDocumentMoniker": "PRN232.LAB1.SE193112\\appsettings.json",
+              "ToolTip": "D:\\FPTU\\1_PRN232\\SE193112Lab1\\PRN232.LAB1.SE193112\\PRN232.LAB1.SE193112\\appsettings.json",
+              "RelativeToolTip": "PRN232.LAB1.SE193112\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-05-15T05:39:13.192Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "PRN232.LMS.Repositories.csproj",
+              "DocumentMoniker": "D:\\FPTU\\1_PRN232\\SE193112Lab1\\PRN232.LAB1.SE193112\\PRN232.LMS.Repositories\\PRN232.LMS.Repositories.csproj",
+              "RelativeDocumentMoniker": "PRN232.LMS.Repositories\\PRN232.LMS.Repositories.csproj",
+              "ToolTip": "D:\\FPTU\\1_PRN232\\SE193112Lab1\\PRN232.LAB1.SE193112\\PRN232.LMS.Repositories\\PRN232.LMS.Repositories.csproj",
+              "RelativeToolTip": "PRN232.LMS.Repositories\\PRN232.LMS.Repositories.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-05-15T05:10:14.258Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Prn232LmsContext.cs",
+              "DocumentMoniker": "D:\\FPTU\\1_PRN232\\SE193112Lab1\\PRN232.LAB1.SE193112\\PRN232.LMS.Repositories\\Entities\\Prn232LmsContext.cs",
+              "RelativeDocumentMoniker": "PRN232.LMS.Repositories\\Entities\\Prn232LmsContext.cs",
+              "ToolTip": "D:\\FPTU\\1_PRN232\\SE193112Lab1\\PRN232.LAB1.SE193112\\PRN232.LMS.Repositories\\Entities\\Prn232LmsContext.cs",
+              "RelativeToolTip": "PRN232.LMS.Repositories\\Entities\\Prn232LmsContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-15T05:37:17.93Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "PRN232.LMS.API.csproj.lscache",
+              "DocumentMoniker": "D:\\FPTU\\1_PRN232\\SE193112Lab1\\PRN232.LAB1.SE193112\\PRN232.LAB1.SE193112\\PRN232.LMS.API.csproj.lscache",
+              "RelativeDocumentMoniker": "PRN232.LAB1.SE193112\\PRN232.LMS.API.csproj.lscache",
+              "ToolTip": "D:\\FPTU\\1_PRN232\\SE193112Lab1\\PRN232.LAB1.SE193112\\PRN232.LAB1.SE193112\\PRN232.LMS.API.csproj.lscache",
+              "RelativeToolTip": "PRN232.LAB1.SE193112\\PRN232.LMS.API.csproj.lscache",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-05-18T03:19:42.409Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "SubjectResponse.cs",
+              "DocumentMoniker": "D:\\FPTU\\1_PRN232\\SE193112Lab1\\PRN232.LAB1.SE193112\\PRN232.LAB1.SE193112\\Models\\Responses\\SubjectResponse.cs",
+              "RelativeDocumentMoniker": "PRN232.LAB1.SE193112\\Models\\Responses\\SubjectResponse.cs",
+              "ToolTip": "D:\\FPTU\\1_PRN232\\SE193112Lab1\\PRN232.LAB1.SE193112\\PRN232.LAB1.SE193112\\Models\\Responses\\SubjectResponse.cs",
+              "RelativeToolTip": "PRN232.LAB1.SE193112\\Models\\Responses\\SubjectResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-16T00:34:03.08Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "StudentResponse.cs",
+              "DocumentMoniker": "D:\\FPTU\\1_PRN232\\SE193112Lab1\\PRN232.LAB1.SE193112\\PRN232.LAB1.SE193112\\Models\\Responses\\StudentResponse.cs",
+              "RelativeDocumentMoniker": "PRN232.LAB1.SE193112\\Models\\Responses\\StudentResponse.cs",
+              "ToolTip": "D:\\FPTU\\1_PRN232\\SE193112Lab1\\PRN232.LAB1.SE193112\\PRN232.LAB1.SE193112\\Models\\Responses\\StudentResponse.cs",
+              "RelativeToolTip": "PRN232.LAB1.SE193112\\Models\\Responses\\StudentResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-16T00:34:08.855Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "SemesterResponse.cs",
+              "DocumentMoniker": "D:\\FPTU\\1_PRN232\\SE193112Lab1\\PRN232.LAB1.SE193112\\PRN232.LAB1.SE193112\\Models\\Responses\\SemesterResponse.cs",
+              "RelativeDocumentMoniker": "PRN232.LAB1.SE193112\\Models\\Responses\\SemesterResponse.cs",
+              "ToolTip": "D:\\FPTU\\1_PRN232\\SE193112Lab1\\PRN232.LAB1.SE193112\\PRN232.LAB1.SE193112\\Models\\Responses\\SemesterResponse.cs",
+              "RelativeToolTip": "PRN232.LAB1.SE193112\\Models\\Responses\\SemesterResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-16T00:34:17.322Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ApiResponse.cs",
+              "DocumentMoniker": "D:\\FPTU\\1_PRN232\\SE193112Lab1\\PRN232.LAB1.SE193112\\PRN232.LAB1.SE193112\\Models\\ApiResponse.cs",
+              "RelativeDocumentMoniker": "PRN232.LAB1.SE193112\\Models\\ApiResponse.cs",
+              "ToolTip": "D:\\FPTU\\1_PRN232\\SE193112Lab1\\PRN232.LAB1.SE193112\\PRN232.LAB1.SE193112\\Models\\ApiResponse.cs",
+              "RelativeToolTip": "PRN232.LAB1.SE193112\\Models\\ApiResponse.cs",
+              "ViewState": "AgIAAEsAAAAAAAAAAAA+wBAAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-16T00:33:46.281Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "StudentsController.cs",
+              "DocumentMoniker": "D:\\FPTU\\1_PRN232\\SE193112Lab1\\PRN232.LAB1.SE193112\\PRN232.LAB1.SE193112\\Controllers\\StudentsController.cs",
+              "RelativeDocumentMoniker": "PRN232.LAB1.SE193112\\Controllers\\StudentsController.cs",
+              "ToolTip": "D:\\FPTU\\1_PRN232\\SE193112Lab1\\PRN232.LAB1.SE193112\\PRN232.LAB1.SE193112\\Controllers\\StudentsController.cs",
+              "RelativeToolTip": "PRN232.LAB1.SE193112\\Controllers\\StudentsController.cs",
+              "ViewState": "AgIAAPoAAAAAAAAAAAAtwAwBAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-16T01:12:49.803Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "EnrollmentResponse.cs",
+              "DocumentMoniker": "D:\\FPTU\\1_PRN232\\SE193112Lab1\\PRN232.LAB1.SE193112\\PRN232.LAB1.SE193112\\Models\\Responses\\EnrollmentResponse.cs",
+              "RelativeDocumentMoniker": "PRN232.LAB1.SE193112\\Models\\Responses\\EnrollmentResponse.cs",
+              "ToolTip": "D:\\FPTU\\1_PRN232\\SE193112Lab1\\PRN232.LAB1.SE193112\\PRN232.LAB1.SE193112\\Models\\Responses\\EnrollmentResponse.cs",
+              "RelativeToolTip": "PRN232.LAB1.SE193112\\Models\\Responses\\EnrollmentResponse.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAowAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-16T00:34:18.841Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Microsoft.NET.Sdk.Razor.MvcApplicationPartsDiscovery.targets",
+              "DocumentMoniker": "C:\\Program Files\\dotnet\\sdk\\9.0.311\\Sdks\\Microsoft.NET.Sdk.Razor\\targets\\Microsoft.NET.Sdk.Razor.MvcApplicationPartsDiscovery.targets",
+              "ToolTip": "C:\\Program Files\\dotnet\\sdk\\9.0.311\\Sdks\\Microsoft.NET.Sdk.Razor\\targets\\Microsoft.NET.Sdk.Razor.MvcApplicationPartsDiscovery.targets",
+              "ViewState": "AgIAACIAAAAAAAAAAAAEwDUAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
+              "WhenOpened": "2026-05-16T01:14:54.794Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "EnrollmentService.cs",
+              "DocumentMoniker": "D:\\FPTU\\1_PRN232\\SE193112Lab1\\PRN232.LAB1.SE193112\\PRN232.LMS.Services\\Services\\EnrollmentService.cs",
+              "RelativeDocumentMoniker": "PRN232.LMS.Services\\Services\\EnrollmentService.cs",
+              "ToolTip": "D:\\FPTU\\1_PRN232\\SE193112Lab1\\PRN232.LAB1.SE193112\\PRN232.LMS.Services\\Services\\EnrollmentService.cs",
+              "RelativeToolTip": "PRN232.LMS.Services\\Services\\EnrollmentService.cs",
+              "ViewState": "AgIAAHgAAAAAAAAAAAAUwIAAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-15T06:00:54.629Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "CourseResponse.cs",
+              "DocumentMoniker": "D:\\FPTU\\1_PRN232\\SE193112Lab1\\PRN232.LAB1.SE193112\\PRN232.LAB1.SE193112\\Models\\Responses\\CourseResponse.cs",
+              "RelativeDocumentMoniker": "PRN232.LAB1.SE193112\\Models\\Responses\\CourseResponse.cs",
+              "ToolTip": "D:\\FPTU\\1_PRN232\\SE193112Lab1\\PRN232.LAB1.SE193112\\PRN232.LAB1.SE193112\\Models\\Responses\\CourseResponse.cs",
+              "RelativeToolTip": "PRN232.LAB1.SE193112\\Models\\Responses\\CourseResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-15T05:53:44.89Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "GenericRepository.cs",
+              "DocumentMoniker": "D:\\FPTU\\1_PRN232\\SE193112Lab1\\PRN232.LAB1.SE193112\\PRN232.LMS.Repositories\\Repositories\\GenericRepository.cs",
+              "RelativeDocumentMoniker": "PRN232.LMS.Repositories\\Repositories\\GenericRepository.cs",
+              "ToolTip": "D:\\FPTU\\1_PRN232\\SE193112Lab1\\PRN232.LAB1.SE193112\\PRN232.LMS.Repositories\\Repositories\\GenericRepository.cs",
+              "RelativeToolTip": "PRN232.LMS.Repositories\\Repositories\\GenericRepository.cs",
+              "ViewState": "AgIAAEoAAAAAAAAAAAAiwGEAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-15T05:32:01.064Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "PRN232.LMS.Repositories.csproj.lscache",
+              "DocumentMoniker": "D:\\FPTU\\1_PRN232\\SE193112Lab1\\PRN232.LAB1.SE193112\\PRN232.LMS.Repositories\\PRN232.LMS.Repositories.csproj.lscache",
+              "RelativeDocumentMoniker": "PRN232.LMS.Repositories\\PRN232.LMS.Repositories.csproj.lscache",
+              "ToolTip": "D:\\FPTU\\1_PRN232\\SE193112Lab1\\PRN232.LAB1.SE193112\\PRN232.LMS.Repositories\\PRN232.LMS.Repositories.csproj.lscache",
+              "RelativeToolTip": "PRN232.LMS.Repositories\\PRN232.LMS.Repositories.csproj.lscache",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-05-15T06:10:20.65Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "PRN232.LMS.Services.csproj",
+              "DocumentMoniker": "D:\\FPTU\\1_PRN232\\SE193112Lab1\\PRN232.LAB1.SE193112\\PRN232.LMS.Services\\PRN232.LMS.Services.csproj",
+              "RelativeDocumentMoniker": "PRN232.LMS.Services\\PRN232.LMS.Services.csproj",
+              "ToolTip": "D:\\FPTU\\1_PRN232\\SE193112Lab1\\PRN232.LAB1.SE193112\\PRN232.LMS.Services\\PRN232.LMS.Services.csproj",
+              "RelativeToolTip": "PRN232.LMS.Services\\PRN232.LMS.Services.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-05-15T05:10:02.726Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "SemesterRepository.cs",
+              "DocumentMoniker": "D:\\FPTU\\1_PRN232\\SE193112Lab1\\PRN232.LAB1.SE193112\\PRN232.LMS.Repositories\\Repositories\\SemesterRepository.cs",
+              "RelativeDocumentMoniker": "PRN232.LMS.Repositories\\Repositories\\SemesterRepository.cs",
+              "ToolTip": "D:\\FPTU\\1_PRN232\\SE193112Lab1\\PRN232.LAB1.SE193112\\PRN232.LMS.Repositories\\Repositories\\SemesterRepository.cs",
+              "RelativeToolTip": "PRN232.LMS.Repositories\\Repositories\\SemesterRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-15T05:52:41.194Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "IGenericRepository.cs",
+              "DocumentMoniker": "D:\\FPTU\\1_PRN232\\SE193112Lab1\\PRN232.LAB1.SE193112\\PRN232.LMS.Repositories\\Repositories\\Interfaces\\IGenericRepository.cs",
+              "RelativeDocumentMoniker": "PRN232.LMS.Repositories\\Repositories\\Interfaces\\IGenericRepository.cs",
+              "ToolTip": "D:\\FPTU\\1_PRN232\\SE193112Lab1\\PRN232.LAB1.SE193112\\PRN232.LMS.Repositories\\Repositories\\Interfaces\\IGenericRepository.cs",
+              "RelativeToolTip": "PRN232.LMS.Repositories\\Repositories\\Interfaces\\IGenericRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEQAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-15T05:31:36.889Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "StudentRepository.cs",
+              "DocumentMoniker": "D:\\FPTU\\1_PRN232\\SE193112Lab1\\PRN232.LAB1.SE193112\\PRN232.LMS.Repositories\\Repositories\\StudentRepository.cs",
+              "RelativeDocumentMoniker": "PRN232.LMS.Repositories\\Repositories\\StudentRepository.cs",
+              "ToolTip": "D:\\FPTU\\1_PRN232\\SE193112Lab1\\PRN232.LAB1.SE193112\\PRN232.LMS.Repositories\\Repositories\\StudentRepository.cs",
+              "RelativeToolTip": "PRN232.LMS.Repositories\\Repositories\\StudentRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-15T05:52:39.991Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "SubjectRepository.cs",
+              "DocumentMoniker": "D:\\FPTU\\1_PRN232\\SE193112Lab1\\PRN232.LAB1.SE193112\\PRN232.LMS.Repositories\\Repositories\\SubjectRepository.cs",
+              "RelativeDocumentMoniker": "PRN232.LMS.Repositories\\Repositories\\SubjectRepository.cs",
+              "ToolTip": "D:\\FPTU\\1_PRN232\\SE193112Lab1\\PRN232.LAB1.SE193112\\PRN232.LMS.Repositories\\Repositories\\SubjectRepository.cs",
+              "RelativeToolTip": "PRN232.LMS.Repositories\\Repositories\\SubjectRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-15T05:52:34.958Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "ICourseRepository.cs",
+              "DocumentMoniker": "D:\\FPTU\\1_PRN232\\SE193112Lab1\\PRN232.LAB1.SE193112\\PRN232.LMS.Repositories\\Repositories\\Interfaces\\ICourseRepository.cs",
+              "RelativeDocumentMoniker": "PRN232.LMS.Repositories\\Repositories\\Interfaces\\ICourseRepository.cs",
+              "ToolTip": "D:\\FPTU\\1_PRN232\\SE193112Lab1\\PRN232.LAB1.SE193112\\PRN232.LMS.Repositories\\Repositories\\Interfaces\\ICourseRepository.cs",
+              "RelativeToolTip": "PRN232.LMS.Repositories\\Repositories\\Interfaces\\ICourseRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-15T05:52:54.658Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "IEnrollmentRepository.cs",
+              "DocumentMoniker": "D:\\FPTU\\1_PRN232\\SE193112Lab1\\PRN232.LAB1.SE193112\\PRN232.LMS.Repositories\\Repositories\\Interfaces\\IEnrollmentRepository.cs",
+              "RelativeDocumentMoniker": "PRN232.LMS.Repositories\\Repositories\\Interfaces\\IEnrollmentRepository.cs",
+              "ToolTip": "D:\\FPTU\\1_PRN232\\SE193112Lab1\\PRN232.LAB1.SE193112\\PRN232.LMS.Repositories\\Repositories\\Interfaces\\IEnrollmentRepository.cs",
+              "RelativeToolTip": "PRN232.LMS.Repositories\\Repositories\\Interfaces\\IEnrollmentRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-15T05:52:58.093Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "SubjectBusinessModel.cs",
+              "DocumentMoniker": "D:\\FPTU\\1_PRN232\\SE193112Lab1\\PRN232.LAB1.SE193112\\PRN232.LMS.Services\\Models\\SubjectBusinessModel.cs",
+              "RelativeDocumentMoniker": "PRN232.LMS.Services\\Models\\SubjectBusinessModel.cs",
+              "ToolTip": "D:\\FPTU\\1_PRN232\\SE193112Lab1\\PRN232.LAB1.SE193112\\PRN232.LMS.Services\\Models\\SubjectBusinessModel.cs",
+              "RelativeToolTip": "PRN232.LMS.Services\\Models\\SubjectBusinessModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-15T06:01:33.911Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "SubjectService.cs",
+              "DocumentMoniker": "D:\\FPTU\\1_PRN232\\SE193112Lab1\\PRN232.LAB1.SE193112\\PRN232.LMS.Services\\Services\\SubjectService.cs",
+              "RelativeDocumentMoniker": "PRN232.LMS.Services\\Services\\SubjectService.cs",
+              "ToolTip": "D:\\FPTU\\1_PRN232\\SE193112Lab1\\PRN232.LAB1.SE193112\\PRN232.LMS.Services\\Services\\SubjectService.cs",
+              "RelativeToolTip": "PRN232.LMS.Services\\Services\\SubjectService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-15T06:06:48.032Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "StudentService.cs",
+              "DocumentMoniker": "D:\\FPTU\\1_PRN232\\SE193112Lab1\\PRN232.LAB1.SE193112\\PRN232.LMS.Services\\Services\\StudentService.cs",
+              "RelativeDocumentMoniker": "PRN232.LMS.Services\\Services\\StudentService.cs",
+              "ToolTip": "D:\\FPTU\\1_PRN232\\SE193112Lab1\\PRN232.LAB1.SE193112\\PRN232.LMS.Services\\Services\\StudentService.cs",
+              "RelativeToolTip": "PRN232.LMS.Services\\Services\\StudentService.cs",
+              "ViewState": "AgIAAG8AAAAAAAAAAAAIwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-15T06:06:39.965Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "CourseBusinessModel.cs",
+              "DocumentMoniker": "D:\\FPTU\\1_PRN232\\SE193112Lab1\\PRN232.LAB1.SE193112\\PRN232.LMS.Services\\Models\\CourseBusinessModel.cs",
+              "RelativeDocumentMoniker": "PRN232.LMS.Services\\Models\\CourseBusinessModel.cs",
+              "ToolTip": "D:\\FPTU\\1_PRN232\\SE193112Lab1\\PRN232.LAB1.SE193112\\PRN232.LMS.Services\\Models\\CourseBusinessModel.cs",
+              "RelativeToolTip": "PRN232.LMS.Services\\Models\\CourseBusinessModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-15T06:01:24.599Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "EnrollmentBusinessModel.cs",
+              "DocumentMoniker": "D:\\FPTU\\1_PRN232\\SE193112Lab1\\PRN232.LAB1.SE193112\\PRN232.LMS.Services\\Models\\EnrollmentBusinessModel.cs",
+              "RelativeDocumentMoniker": "PRN232.LMS.Services\\Models\\EnrollmentBusinessModel.cs",
+              "ToolTip": "D:\\FPTU\\1_PRN232\\SE193112Lab1\\PRN232.LAB1.SE193112\\PRN232.LMS.Services\\Models\\EnrollmentBusinessModel.cs",
+              "RelativeToolTip": "PRN232.LMS.Services\\Models\\EnrollmentBusinessModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-15T06:02:40.482Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "Enrollment.cs",
+              "DocumentMoniker": "D:\\FPTU\\1_PRN232\\SE193112Lab1\\PRN232.LAB1.SE193112\\PRN232.LMS.Repositories\\Entities\\Enrollment.cs",
+              "RelativeDocumentMoniker": "PRN232.LMS.Repositories\\Entities\\Enrollment.cs",
+              "ToolTip": "D:\\FPTU\\1_PRN232\\SE193112Lab1\\PRN232.LAB1.SE193112\\PRN232.LMS.Repositories\\Entities\\Enrollment.cs",
+              "RelativeToolTip": "PRN232.LMS.Repositories\\Entities\\Enrollment.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-15T05:37:17.217Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "SemesterService.cs",
+              "DocumentMoniker": "D:\\FPTU\\1_PRN232\\SE193112Lab1\\PRN232.LAB1.SE193112\\PRN232.LMS.Services\\Services\\SemesterService.cs",
+              "RelativeDocumentMoniker": "PRN232.LMS.Services\\Services\\SemesterService.cs",
+              "ToolTip": "D:\\FPTU\\1_PRN232\\SE193112Lab1\\PRN232.LAB1.SE193112\\PRN232.LMS.Services\\Services\\SemesterService.cs",
+              "RelativeToolTip": "PRN232.LMS.Services\\Services\\SemesterService.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAkwBEAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-15T05:56:10.914Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "SemesterBusinessModel.cs",
+              "DocumentMoniker": "D:\\FPTU\\1_PRN232\\SE193112Lab1\\PRN232.LAB1.SE193112\\PRN232.LMS.Services\\Models\\SemesterBusinessModel.cs",
+              "RelativeDocumentMoniker": "PRN232.LMS.Services\\Models\\SemesterBusinessModel.cs",
+              "ToolTip": "D:\\FPTU\\1_PRN232\\SE193112Lab1\\PRN232.LAB1.SE193112\\PRN232.LMS.Services\\Models\\SemesterBusinessModel.cs",
+              "RelativeToolTip": "PRN232.LMS.Services\\Models\\SemesterBusinessModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-15T06:01:27.589Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "CourseService.cs",
+              "DocumentMoniker": "D:\\FPTU\\1_PRN232\\SE193112Lab1\\PRN232.LAB1.SE193112\\PRN232.LMS.Services\\Services\\CourseService.cs",
+              "RelativeDocumentMoniker": "PRN232.LMS.Services\\Services\\CourseService.cs",
+              "ToolTip": "D:\\FPTU\\1_PRN232\\SE193112Lab1\\PRN232.LAB1.SE193112\\PRN232.LMS.Services\\Services\\CourseService.cs",
+              "RelativeToolTip": "PRN232.LMS.Services\\Services\\CourseService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-15T06:01:00.16Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "StudentBusinessModel.cs",
+              "DocumentMoniker": "D:\\FPTU\\1_PRN232\\SE193112Lab1\\PRN232.LAB1.SE193112\\PRN232.LMS.Services\\Models\\StudentBusinessModel.cs",
+              "RelativeDocumentMoniker": "PRN232.LMS.Services\\Models\\StudentBusinessModel.cs",
+              "ToolTip": "D:\\FPTU\\1_PRN232\\SE193112Lab1\\PRN232.LAB1.SE193112\\PRN232.LMS.Services\\Models\\StudentBusinessModel.cs",
+              "RelativeToolTip": "PRN232.LMS.Services\\Models\\StudentBusinessModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-15T06:01:32.565Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "ISubjectRepository.cs",
+              "DocumentMoniker": "D:\\FPTU\\1_PRN232\\SE193112Lab1\\PRN232.LAB1.SE193112\\PRN232.LMS.Repositories\\Repositories\\Interfaces\\ISubjectRepository.cs",
+              "RelativeDocumentMoniker": "PRN232.LMS.Repositories\\Repositories\\Interfaces\\ISubjectRepository.cs",
+              "ToolTip": "D:\\FPTU\\1_PRN232\\SE193112Lab1\\PRN232.LAB1.SE193112\\PRN232.LMS.Repositories\\Repositories\\Interfaces\\ISubjectRepository.cs",
+              "RelativeToolTip": "PRN232.LMS.Repositories\\Repositories\\Interfaces\\ISubjectRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-15T05:53:10.863Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "IStudentRepository.cs",
+              "DocumentMoniker": "D:\\FPTU\\1_PRN232\\SE193112Lab1\\PRN232.LAB1.SE193112\\PRN232.LMS.Repositories\\Repositories\\Interfaces\\IStudentRepository.cs",
+              "RelativeDocumentMoniker": "PRN232.LMS.Repositories\\Repositories\\Interfaces\\IStudentRepository.cs",
+              "ToolTip": "D:\\FPTU\\1_PRN232\\SE193112Lab1\\PRN232.LAB1.SE193112\\PRN232.LMS.Repositories\\Repositories\\Interfaces\\IStudentRepository.cs",
+              "RelativeToolTip": "PRN232.LMS.Repositories\\Repositories\\Interfaces\\IStudentRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-15T05:53:09.032Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "EnrollmentRepository.cs",
+              "DocumentMoniker": "D:\\FPTU\\1_PRN232\\SE193112Lab1\\PRN232.LAB1.SE193112\\PRN232.LMS.Repositories\\Repositories\\EnrollmentRepository.cs",
+              "RelativeDocumentMoniker": "PRN232.LMS.Repositories\\Repositories\\EnrollmentRepository.cs",
+              "ToolTip": "D:\\FPTU\\1_PRN232\\SE193112Lab1\\PRN232.LAB1.SE193112\\PRN232.LMS.Repositories\\Repositories\\EnrollmentRepository.cs",
+              "RelativeToolTip": "PRN232.LMS.Repositories\\Repositories\\EnrollmentRepository.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-15T05:52:47.443Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "CourseRepository.cs",
+              "DocumentMoniker": "D:\\FPTU\\1_PRN232\\SE193112Lab1\\PRN232.LAB1.SE193112\\PRN232.LMS.Repositories\\Repositories\\CourseRepository.cs",
+              "RelativeDocumentMoniker": "PRN232.LMS.Repositories\\Repositories\\CourseRepository.cs",
+              "ToolTip": "D:\\FPTU\\1_PRN232\\SE193112Lab1\\PRN232.LAB1.SE193112\\PRN232.LMS.Repositories\\Repositories\\CourseRepository.cs",
+              "RelativeToolTip": "PRN232.LMS.Repositories\\Repositories\\CourseRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-15T05:52:50.823Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "ISemesterRepository.cs",
+              "DocumentMoniker": "D:\\FPTU\\1_PRN232\\SE193112Lab1\\PRN232.LAB1.SE193112\\PRN232.LMS.Repositories\\Repositories\\Interfaces\\ISemesterRepository.cs",
+              "RelativeDocumentMoniker": "PRN232.LMS.Repositories\\Repositories\\Interfaces\\ISemesterRepository.cs",
+              "ToolTip": "D:\\FPTU\\1_PRN232\\SE193112Lab1\\PRN232.LAB1.SE193112\\PRN232.LMS.Repositories\\Repositories\\Interfaces\\ISemesterRepository.cs",
+              "RelativeToolTip": "PRN232.LMS.Repositories\\Repositories\\Interfaces\\ISemesterRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-15T05:53:06.529Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "Course.cs",
+              "DocumentMoniker": "D:\\FPTU\\1_PRN232\\SE193112Lab1\\PRN232.LAB1.SE193112\\PRN232.LMS.Repositories\\Entities\\Course.cs",
+              "RelativeDocumentMoniker": "PRN232.LMS.Repositories\\Entities\\Course.cs",
+              "ToolTip": "D:\\FPTU\\1_PRN232\\SE193112Lab1\\PRN232.LAB1.SE193112\\PRN232.LMS.Repositories\\Entities\\Course.cs",
+              "RelativeToolTip": "PRN232.LMS.Repositories\\Entities\\Course.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-15T05:37:09.191Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
