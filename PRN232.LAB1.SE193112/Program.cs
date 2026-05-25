@@ -54,11 +54,11 @@ app.UseAuthorization();
 app.MapControllers();
 
 // Auto migrate database on startup
-using (var scope = app.Services.CreateScope())
-{
-    var db = scope.ServiceProvider.GetRequiredService<Prn232LmsContext>();
-    db.Database.Migrate();
-}
+//using (var scope = app.Services.CreateScope())
+//{
+//    var db = scope.ServiceProvider.GetRequiredService<Prn232LmsContext>();
+//    db.Database.Migrate();
+//}
 
 
 app.Run();

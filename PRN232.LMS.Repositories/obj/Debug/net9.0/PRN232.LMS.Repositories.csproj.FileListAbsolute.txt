@@ -12,3 +12,4 @@ D:\FPTU\1_PRN232\SE193112Lab1\PRN232.LAB1.SE193112\PRN232.LMS.Repositories\obj\D
 D:\FPTU\1_PRN232\SE193112Lab1\PRN232.LAB1.SE193112\PRN232.LMS.Repositories\obj\Debug\net9.0\PRN232.LMS.Repositories.pdb
 D:\FPTU\1_PRN232\SE193112Lab1\PRN232.LAB1.SE193112\PRN232.LMS.Repositories\obj\Debug\net9.0\PRN232.LMS.Repositories.genruntimeconfig.cache
 D:\FPTU\1_PRN232\SE193112Lab1\PRN232.LAB1.SE193112\PRN232.LMS.Repositories\obj\Debug\net9.0\ref\PRN232.LMS.Repositories.dll
+D:\FPTU\1_PRN232\SE193112Lab1\PRN232.LAB1.SE193112\PRN232.LMS.Repositories\obj\Debug\net9.0\PRN232.LMS.Repositories.sourcelink.json
